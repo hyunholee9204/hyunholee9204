@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hyunho Lee</h1>
-<h3 align="center">Fast forward to data analytics and developers</h3>
+<h3 align="center">Aspiring Database Administrator with hands-on experience in SQL, data modeling, and system-oriented design.</h3>
 
 - 📫 How to reach me **lhh10134@naver.com**
 

@@ -7,12 +7,12 @@
 
 ---
 
-### 🔍 Focus On
+### Focus On
 - **Database Management & Tuning** (PostgreSQL, MySQL)
 - **Data Engineering Pipeline** (Python, Pandas)
 - **High-Performance Query Design**
 
-### 🛠 Languages and Tools
+### Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
@@ -30,8 +30,8 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyunholee9204ID&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyunholee9204&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 

@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Email-lhh10134@naver.com-blue?style=flat-square&logo=naver&logoColor=white" alt="Email">
   </a>
   &nbsp;
-  <img src="https://hits.dwyl.com/hyunholee9204/hyunholee9204.svg?v=1" alt="Hits" />
+  <img src="https://komarev.com/ghpvc/?username=hyunholee9204&color=blue&style=flat-square" alt="Hits" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ### 📊 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyunholee9204&show_icons=true&theme=radical" alt="Hyunho's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hyunholee9204&show_icons=true&theme=radical&cache=false" alt="Hyunho's GitHub Stats" />
 </p>
 
 <p align="center">

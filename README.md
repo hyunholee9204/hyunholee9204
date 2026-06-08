@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Email-lhh10134@naver.com-blue?style=flat-square&logo=naver&logoColor=white" alt="Email">
   </a>
   &nbsp;
-  <img src="https://profiles.mojoauth.com/users/status/badge?username=hyunholee9204" alt="Hits" />
+  <img src="https://hits.dwyl.com/hyunholee9204/hyunholee9204.svg?v=1" alt="Hits" />
 </p>
 
 ---
